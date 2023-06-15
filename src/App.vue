@@ -1,14 +1,9 @@
 <script setup lang="ts">
-// import { RouterLink, RouterView } from 'vue-router'
-import HeaderComponent from './components/HeaderComponent.vue'
-import LandingComponent from './components/LandingComponent.vue'
+import { RouterView } from 'vue-router'
 </script>
 
 <template>
-  <HeaderComponent />
-  <LandingComponent />
-
-  <!-- <RouterView /> -->
+  <RouterView />
 </template>
 
 <style scoped></style>
