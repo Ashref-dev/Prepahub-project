@@ -20,7 +20,7 @@ PrépaHub is a platform that provides detailed information about the curriculums
 
 Using PrépaHub is simple:
 
-1. Visit our website at [prepa-hub.tn](https://www.prepa-hub.tn).
+1. Visit our website at prepa-hub.tn (not availabe yet)
 2. Explore the curriculums for different Preparatory Cycles and select the cycle you are interested in.
 3. Access detailed information about the subjects, course structure, and evaluation methods for the selected cycle.
 4. To calculate your mark, navigate to the mark calculator tool and enter your grades for each subject.
