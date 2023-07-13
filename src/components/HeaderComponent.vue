@@ -1,8 +1,4 @@
-<script setup lang="ts">
-// defineProps<{
-//   msg: string
-// }>()
-</script>
+<script setup lang="ts"></script>
 
 <template>
   <header class="flex items-center justify-between mx-8 my-4">
@@ -20,12 +16,8 @@
         Sign up
       </button>
     </div>
-    <div class="block w-8 md:hidden">
-      <img
-        src="https://img.uxwing.com/wp-content/themes/uxwing/download/web-app-development/hamburger-menu-icon.png"
-        alt=""
-        srcset=""
-      />
+    <div class="block w-12 md:hidden">
+      <img src="../assets/graphics/hamburger.svg" alt="menu" />
     </div>
   </header>
 </template>

@@ -3,8 +3,10 @@ import HeaderComponent from '../components/HeaderComponent.vue'
 import LandingComponent from '../components/LandingComponent.vue'
 </script>
 <template>
-  <HeaderComponent />
-  <LandingComponent />
+  <div class="container mx-auto">
+    <HeaderComponent />
+    <LandingComponent />
+  </div>
 </template>
 
 <style scoped></style>
