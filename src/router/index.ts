@@ -9,6 +9,7 @@ const router = createRouter({
       name: 'home',
       component: HomeView
     }
+    // Zid fel views folder component ou gedd route lenna (example "about")
     // {
     //   path: '/about',
     //   name: 'about',
