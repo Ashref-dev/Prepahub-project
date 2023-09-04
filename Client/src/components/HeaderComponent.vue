@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <header class="flex items-center justify-between mx-8 my-4">
+  <header class="flex items-center justify-between mx-8 py-6 lg:px-8">
     <img src="../assets/logo/PrepaHub_logo_text.svg" alt="" srcset="" />
 
     <ul class="hidden items-center gap-4 md:flex">
